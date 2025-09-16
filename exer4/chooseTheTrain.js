@@ -99,8 +99,12 @@ function getTrainComingIn1Minute(arrivals) {
  *
  */
 function updateLineColor(arrivals) {
+    return arrivals
+      .filter((train) => train.LINE === "BLUE")
+      .map((train) => ({ ...train, LINE: "PINK" }));
   
 }
+
 
 console.log(getKeysToArr(railArray));
 console.log(getTrainComingIn1Minute(railArray));
