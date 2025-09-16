@@ -17,7 +17,8 @@ See the submission instructions down below.
 In order to familiarize yourself with flexbox, please complete this activity and post a screenshot of **ALL** completed levels. Access the exercise via [this link](https://flexboxfroggy.com/) and complete the levels in order of increasing difficulty.
 
 
-(froggy.png)
+[Flexbox Froggy Completed](froggy.png)
+
 
 
 
