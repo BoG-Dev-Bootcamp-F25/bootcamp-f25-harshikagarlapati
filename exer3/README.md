@@ -16,6 +16,12 @@ See the submission instructions down below.
 
 In order to familiarize yourself with flexbox, please complete this activity and post a screenshot of **ALL** completed levels. Access the exercise via [this link](https://flexboxfroggy.com/) and complete the levels in order of increasing difficulty.
 
+
+(froggy.png)
+
+
+
+
 ### Part 2 - Design a Webpage
 
 Let’s take what you learned so far and make a simple webpage! Use HTML and CSS to design a webpage about literally anything that you're interested in (as long as it's school-appropriate, of course). Please follow this [Figma Design](https://www.figma.com/file/ntkLB8VoJ1yCSv65922Jdt/Simple-Google-Page?type=design&mode=design&t=693nvgfQneNp8ziH-0) to guide your website design. Note that the Figma design consists of two pages; you can navigate between them by clicking the Figma icon in the top left corner of the website. Also, while the sample design is more like an intro card, feel free to design it around anything you'd like (favorite animal, TV show, etc.).
